@@ -1,7 +1,7 @@
 # Site settings
 title: 随手记录
 SEOTitle: php架构师
-header-img: img/timg (1).jpg
+header-img: 
 email: 986235895@qq.com
 description: "Learning is painful"
 keyword: "php, docker, rabbitMQ, mysql, redis"
