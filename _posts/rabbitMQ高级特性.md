@@ -5,7 +5,7 @@ subtitle:   rabbitMQ
 date:       2022-10-10
 author:     
 header-img: img/post-bg-alibaba.jpg
-catalog: false
+catalog: true
 tags:
     - 中间件
 ---
